@@ -1,6 +1,6 @@
 # PL_TRADS
 
-Práctica final de la asignatura de Procesadores del lenguaje, en ella se traducen archivos .c como los mostradosen pruebas.zip a LISP usando trad.y para posteriormente traducir dichos archivos LISP a FORTH usando back.y
+Práctica final de la asignatura de Procesadores del lenguaje, en ella se traducen archivos .c como los mostrados en pruebas a LISP usando trad.y para posteriormente traducir dichos archivos LISP a FORTH usando back.y
 
 Para ejecutar:
 
